@@ -1,3 +1,8 @@
+/**
+ * 
+ * @author Adolfo
+ *
+ */
 public class Auto {
 
 	private String _nombre;
